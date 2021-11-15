@@ -1,5 +1,5 @@
 # Quick Grep
-* Quick grep one-liner reference and tutorial. Combine these simple options into longer ones as needed.
+* Quick grep reference and tutorial. Combine these simple options into longer ones as needed.
 
 ----
 
