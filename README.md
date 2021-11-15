@@ -1,6 +1,8 @@
 # Quick Grep
 * Quick grep one-liner reference and tutorial. Combine these simple options into longer ones as needed.
 
+----
+
 ### Search for match (the string 'hello') in file (called generically 'file'). Display every line that matches pattern (in this case every line containing 'hello')
 `grep hello file`
 
